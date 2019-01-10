@@ -26,5 +26,6 @@ v0.1
 `padding-left 15px; padding-left 15px;` 样式
 - 取消小程序按钮，默认button边框
 - 内置bootstrap默认布局,p-1/6,m-1/6,按钮样式,对齐方式,flex布局,颜色等。
+
 v0.2
 - 新增.card样式
