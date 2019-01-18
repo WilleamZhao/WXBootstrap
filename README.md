@@ -5,7 +5,7 @@
 可以按照bootstrap风格开发微信小程序
 
 方便有bootstrap基础的开发人员进行二次开发  
-文件超小只有29K(还会继续优化),不占用2M小程序限制  
+文件超小不到100K(还会继续优化),不占用2M小程序限制  
 **欢迎大家提[issues](https://github.com/WilleamZhao/WXBootstrap/issues/new)**
 **欢迎 [star](https://github.com/WilleamZhao/WXBootstrap)**
 
@@ -18,6 +18,11 @@
 ```
 
 ![使用wxbootstrap](http://sourcod.oss-cn-beijing.aliyuncs.com/hexo/8037b92bec112a9f67de28eb7866cc8d.png)
+
+### Demo
+https://github.com/WilleamZhao/WXBootstrap-demo
+
+![小程序码](http://sourcod.oss-cn-beijing.aliyuncs.com/hexo/gh_790b638d51d4_258.jpg)
 
 
 v0.1
